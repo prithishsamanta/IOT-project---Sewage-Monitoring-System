@@ -17,8 +17,8 @@ char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "PNH3032";
-char pass[] = "2711196928051975230601";
+char ssid[] = "ssid";
+char pass[] = "password";
 
 const int trigPin1 = D3;
 const int echoPin1 = D2;
